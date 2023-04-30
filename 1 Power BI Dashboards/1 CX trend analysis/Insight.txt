@@ -1,0 +1,16 @@
+1. Total number of calls answered and abandoned. 
+2. ASA by agents 
+3. Lenth of calls
+4. Overall cust satisfaction 
+5. Long term trend
+6. Agent behaviour 
+
+
+
+
+
+-Overall customer satisfaction
+-Overall calls answered/abandoned
+-Calls by time
+-Average speed of answer
+-Agent’s performance quadrant -> average -handle time (talk duration) vs calls answered
